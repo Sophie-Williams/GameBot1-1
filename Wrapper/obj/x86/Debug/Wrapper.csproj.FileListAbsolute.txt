@@ -1,0 +1,32 @@
+C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\bin\Debug\Wrapper.pdb
+C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\obj\x86\Debug\Wrapper.pdb
+C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\bin\Debug\Wrapper.dll.config
+C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\bin\Debug\Wrapper.dll
+C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\obj\x86\Debug\Wrapper.dll
+C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\obj\x86\Debug\AhkWrapper.Properties.Resources.resources
+C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Achu\Documents\Visual Studio 2013\Projects\GameBot1\Wrapper\obj\x86\Debug\AhkWrapper.Properties.Resources.resources
+C:\Users\Achu\Documents\Visual Studio 2013\Projects\GameBot1\Wrapper\obj\x86\Debug\Wrapper.csproj.GenerateResource.Cache
+C:\Users\Achu\Documents\Visual Studio 2013\Projects\GameBot1\Wrapper\obj\x86\Debug\Wrapper.dll
+C:\Users\Achu\Documents\Visual Studio 2013\Projects\GameBot1\Wrapper\obj\x86\Debug\Wrapper.pdb
+C:\Users\Achu\Documents\Visual Studio 2013\Projects\GameBot1\Wrapper\bin\Debug\Wrapper.dll.config
+C:\Users\Achu\Documents\Visual Studio 2013\Projects\GameBot1\Wrapper\bin\Debug\Wrapper.dll
+C:\Users\Achu\Documents\Visual Studio 2013\Projects\GameBot1\Wrapper\bin\Debug\Wrapper.pdb
+C:\Users\Achu\Documents\GameBot1\Wrapper\bin\Debug\Wrapper.dll.config
+C:\Users\Achu\Documents\GameBot1\Wrapper\bin\Debug\Wrapper.dll
+C:\Users\Achu\Documents\GameBot1\Wrapper\bin\Debug\Wrapper.pdb
+C:\Users\Achu\Documents\GameBot1\Wrapper\obj\x86\Debug\Wrapper.csprojResolveAssemblyReference.cache
+C:\Users\Achu\Documents\GameBot1\Wrapper\obj\x86\Debug\AhkWrapper.Properties.Resources.resources
+C:\Users\Achu\Documents\GameBot1\Wrapper\obj\x86\Debug\Wrapper.csproj.GenerateResource.Cache
+C:\Users\Achu\Documents\GameBot1\Wrapper\obj\x86\Debug\Wrapper.dll
+C:\Users\Achu\Documents\GameBot1\Wrapper\obj\x86\Debug\Wrapper.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper\bin\Debug\Wrapper.dll.config
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper\bin\Debug\Wrapper.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper\bin\Debug\Wrapper.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper\obj\x86\Debug\Wrapper.csprojResolveAssemblyReference.cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper\obj\x86\Debug\AhkWrapper.Properties.Resources.resources
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper\obj\x86\Debug\Wrapper.csproj.GenerateResource.Cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper\obj\x86\Debug\Wrapper.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper\obj\x86\Debug\Wrapper.pdb

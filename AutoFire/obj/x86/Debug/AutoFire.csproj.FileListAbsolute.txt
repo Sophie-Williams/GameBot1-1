@@ -1,0 +1,13 @@
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\x86\Debug\AutoFire.exe.config
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\x86\Debug\AutoFire.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\x86\Debug\AutoFire.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\x86\Debug\AutoFire.csprojResolveAssemblyReference.cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\x86\Debug\AutoFire.IView.AutoFire.resources
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\x86\Debug\AutoFire.Properties.Resources.resources
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\x86\Debug\AutoFire.csproj.GenerateResource.Cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\x86\Debug\AutoFire.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\x86\Debug\AutoFire.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\x86\Debug\x64\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\x86\Debug\x86\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\x86\Debug\AutoHotkey.Interop.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\x86\Debug\AutoHotkey.Interop.pdb

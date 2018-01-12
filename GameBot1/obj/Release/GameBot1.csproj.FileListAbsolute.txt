@@ -1,0 +1,34 @@
+C:\Users\Achu\Documents\GameBot1\GameBot1\bin\Release\GameBot1.exe.config
+C:\Users\Achu\Documents\GameBot1\GameBot1\bin\Release\GameBot1.exe
+C:\Users\Achu\Documents\GameBot1\GameBot1\bin\Release\GameBot1.pdb
+C:\Users\Achu\Documents\GameBot1\GameBot1\bin\Release\Wrapper.dll
+C:\Users\Achu\Documents\GameBot1\GameBot1\bin\Release\Wrapper.pdb
+C:\Users\Achu\Documents\GameBot1\GameBot1\obj\Release\GameBot1.csprojResolveAssemblyReference.cache
+C:\Users\Achu\Documents\GameBot1\GameBot1\obj\Release\GameBot1.exe
+C:\Users\Achu\Documents\GameBot1\GameBot1\obj\Release\GameBot1.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\bin\Release\GameBot1.exe.config
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\obj\Release\GameBot1.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\obj\Release\GameBot1.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\bin\Release\GameBot1.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\bin\Release\GameBot1.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\bin\Release\Wrapper.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\bin\Release\Wrapper.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\obj\Release\GameBot1.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\GameBot1\bin\Release\GameBot1.exe.config
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\GameBot1\bin\Release\GameBot1.exe
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\GameBot1\bin\Release\GameBot1.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\GameBot1\bin\Release\Wrapper.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\GameBot1\bin\Release\Wrapper.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\GameBot1\obj\Release\GameBot1.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\GameBot1\obj\Release\GameBot1.exe
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\GameBot1\obj\Release\GameBot1.pdb
+C:\GitHub\GameBot1\GameBot1\bin\Release\GameBot1.exe.config
+C:\GitHub\GameBot1\GameBot1\bin\Release\GameBot1.exe
+C:\GitHub\GameBot1\GameBot1\bin\Release\GameBot1.pdb
+C:\GitHub\GameBot1\GameBot1\bin\Release\Wrapper.dll
+C:\GitHub\GameBot1\GameBot1\bin\Release\Wrapper.pdb
+C:\GitHub\GameBot1\GameBot1\bin\Release\Wrapper.dll.config
+C:\GitHub\GameBot1\GameBot1\obj\Release\GameBot1.csprojResolveAssemblyReference.cache
+C:\GitHub\GameBot1\GameBot1\obj\Release\GameBot1.csproj.CoreCompileInputs.cache
+C:\GitHub\GameBot1\GameBot1\obj\Release\GameBot1.exe
+C:\GitHub\GameBot1\GameBot1\obj\Release\GameBot1.pdb

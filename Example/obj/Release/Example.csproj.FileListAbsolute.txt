@@ -1,0 +1,31 @@
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Example\bin\Release\x64\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Example\bin\Release\x86\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Example\bin\Release\functions.ahk
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Example\bin\Release\Example.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Example\bin\Release\Example.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Example\bin\Release\AutoHotkey.Interop.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Example\bin\Release\AutoHotkey.Interop.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Example\obj\Release\Example.csprojResolveAssemblyReference.cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Example\obj\Release\Example.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Example\obj\Release\Example.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\Example\bin\Release\x64\AutoHotkey.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\Example\bin\Release\x86\AutoHotkey.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\Example\bin\Release\functions.ahk
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\Example\bin\Release\Example.exe
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\Example\bin\Release\Example.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\Example\bin\Release\AutoHotkey.Interop.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\Example\bin\Release\AutoHotkey.Interop.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\Example\obj\Release\Example.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\Example\obj\Release\Example.exe
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\Example\obj\Release\Example.pdb
+C:\GitHub\GameBot1\Example\bin\Release\x64\AutoHotkey.dll
+C:\GitHub\GameBot1\Example\bin\Release\x86\AutoHotkey.dll
+C:\GitHub\GameBot1\Example\bin\Release\functions.ahk
+C:\GitHub\GameBot1\Example\bin\Release\Example.exe
+C:\GitHub\GameBot1\Example\bin\Release\Example.pdb
+C:\GitHub\GameBot1\Example\bin\Release\AutoHotkey.Interop.dll
+C:\GitHub\GameBot1\Example\bin\Release\AutoHotkey.Interop.pdb
+C:\GitHub\GameBot1\Example\obj\Release\Example.csprojResolveAssemblyReference.cache
+C:\GitHub\GameBot1\Example\obj\Release\Example.csproj.CoreCompileInputs.cache
+C:\GitHub\GameBot1\Example\obj\Release\Example.exe
+C:\GitHub\GameBot1\Example\obj\Release\Example.pdb

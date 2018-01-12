@@ -1,0 +1,8 @@
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\bin\x86\Debug\GameBot1.exe.config
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\bin\x86\Debug\GameBot1.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\bin\x86\Debug\GameBot1.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\bin\x86\Debug\Wrapper.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\bin\x86\Debug\Wrapper.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\obj\x86\Debug\GameBot1.csprojResolveAssemblyReference.cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\obj\x86\Debug\GameBot1.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\GameBot1\obj\x86\Debug\GameBot1.pdb

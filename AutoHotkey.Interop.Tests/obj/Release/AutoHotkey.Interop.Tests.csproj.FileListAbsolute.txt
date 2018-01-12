@@ -1,0 +1,70 @@
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.abstractions.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.runner.utility.desktop.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\script_exec.ahk
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\functions.ahk
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\x64\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\x86\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.Tests.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.Tests.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.assert.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.core.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.execution.desktop.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.assert.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.assert.xml
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.core.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.core.xml
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.execution.desktop.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.execution.desktop.xml
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\obj\Release\AutoHotkey.Interop.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\obj\Release\AutoHotkey.Interop.Tests.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop.Tests\obj\Release\AutoHotkey.Interop.Tests.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.runner.visualstudio.testadapter.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.runner.utility.desktop.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.abstractions.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\script_exec.ahk
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\functions.ahk
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\x64\AutoHotkey.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\x86\AutoHotkey.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.Tests.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.Tests.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.assert.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.core.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.execution.desktop.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.assert.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.assert.xml
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.core.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.core.xml
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.execution.desktop.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.execution.desktop.xml
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\obj\Release\AutoHotkey.Interop.Tests.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\obj\Release\AutoHotkey.Interop.Tests.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop.Tests\obj\Release\AutoHotkey.Interop.Tests.pdb
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.runner.visualstudio.testadapter.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.runner.utility.desktop.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.abstractions.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\script_exec.ahk
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\functions.ahk
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\x64\AutoHotkey.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\x86\AutoHotkey.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.Tests.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.Tests.pdb
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.assert.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.core.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.execution.desktop.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\AutoHotkey.Interop.pdb
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.assert.pdb
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.assert.xml
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.core.pdb
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.core.xml
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.execution.desktop.pdb
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\bin\Release\xunit.execution.desktop.xml
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\obj\Release\AutoHotkey.Interop.Tests.csprojResolveAssemblyReference.cache
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\obj\Release\AutoHotkey.Interop.Tests.csproj.CoreCompileInputs.cache
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\obj\Release\AutoHotkey.Interop.Tests.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop.Tests\obj\Release\AutoHotkey.Interop.Tests.pdb

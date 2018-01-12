@@ -1,0 +1,22 @@
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop\bin\Release\x64\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop\bin\Release\x86\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop\bin\Release\AutoHotkey.Interop.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop\bin\Release\AutoHotkey.Interop.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop\obj\Release\AutoHotkey.Interop.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop\obj\Release\AutoHotkey.Interop.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoHotkey.Interop\obj\Release\AutoHotkey.Interop.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop\bin\Release\x64\AutoHotkey.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop\bin\Release\x86\AutoHotkey.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop\bin\Release\AutoHotkey.Interop.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop\bin\Release\AutoHotkey.Interop.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop\obj\Release\AutoHotkey.Interop.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop\obj\Release\AutoHotkey.Interop.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoHotkey.Interop\obj\Release\AutoHotkey.Interop.csprojResolveAssemblyReference.cache
+C:\GitHub\GameBot1\AutoHotkey.Interop\bin\Release\x64\AutoHotkey.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop\bin\Release\x86\AutoHotkey.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop\bin\Release\AutoHotkey.Interop.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop\bin\Release\AutoHotkey.Interop.pdb
+C:\GitHub\GameBot1\AutoHotkey.Interop\obj\Release\AutoHotkey.Interop.csprojResolveAssemblyReference.cache
+C:\GitHub\GameBot1\AutoHotkey.Interop\obj\Release\AutoHotkey.Interop.csproj.CoreCompileInputs.cache
+C:\GitHub\GameBot1\AutoHotkey.Interop\obj\Release\AutoHotkey.Interop.dll
+C:\GitHub\GameBot1\AutoHotkey.Interop\obj\Release\AutoHotkey.Interop.pdb

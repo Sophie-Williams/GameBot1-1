@@ -1,0 +1,40 @@
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Release\AutoFire.exe.config
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Release\AutoFire.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Release\AutoFire.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.csprojResolveAssemblyReference.cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.IView.AutoFire.resources
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.Properties.Resources.resources
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.csproj.GenerateResource.Cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Release\x64\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Release\x86\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Release\AutoHotkey.Interop.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Release\AutoHotkey.Interop.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Release\AutoFire.exe.config
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.exe
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Release\x64\AutoHotkey.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Release\x86\AutoHotkey.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Release\AutoFire.exe
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Release\AutoFire.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Release\AutoHotkey.Interop.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Release\AutoHotkey.Interop.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.IView.AutoFire.resources
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.Properties.Resources.resources
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Release\AutoFire.csproj.GenerateResource.Cache
+C:\GitHub\GameBot1\AutoFire\bin\Release\x64\AutoHotkey.dll
+C:\GitHub\GameBot1\AutoFire\bin\Release\x86\AutoHotkey.dll
+C:\GitHub\GameBot1\AutoFire\bin\Release\AutoFire.exe.config
+C:\GitHub\GameBot1\AutoFire\bin\Release\AutoFire.exe
+C:\GitHub\GameBot1\AutoFire\bin\Release\AutoFire.pdb
+C:\GitHub\GameBot1\AutoFire\bin\Release\AutoHotkey.Interop.dll
+C:\GitHub\GameBot1\AutoFire\bin\Release\AutoHotkey.Interop.pdb
+C:\GitHub\GameBot1\AutoFire\obj\Release\AutoFire.csprojResolveAssemblyReference.cache
+C:\GitHub\GameBot1\AutoFire\obj\Release\AutoFire.IView.AutoFire.resources
+C:\GitHub\GameBot1\AutoFire\obj\Release\AutoFire.Properties.Resources.resources
+C:\GitHub\GameBot1\AutoFire\obj\Release\AutoFire.csproj.GenerateResource.Cache
+C:\GitHub\GameBot1\AutoFire\obj\Release\AutoFire.csproj.CoreCompileInputs.cache
+C:\GitHub\GameBot1\AutoFire\obj\Release\AutoFire.exe
+C:\GitHub\GameBot1\AutoFire\obj\Release\AutoFire.pdb

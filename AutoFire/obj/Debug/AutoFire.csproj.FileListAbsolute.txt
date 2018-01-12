@@ -1,0 +1,40 @@
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Debug\AutoFire.exe.config
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Debug\AutoFire.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Debug\AutoFire.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.csprojResolveAssemblyReference.cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.Properties.Resources.resources
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.csproj.GenerateResource.Cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.IView.AutoFire.resources
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Debug\x64\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Debug\x86\AutoHotkey.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Debug\AutoHotkey.Interop.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\AutoFire\bin\Debug\AutoHotkey.Interop.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Debug\AutoFire.exe.config
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.exe
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Debug\x64\AutoHotkey.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Debug\x86\AutoHotkey.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Debug\AutoFire.exe
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Debug\AutoFire.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Debug\AutoHotkey.Interop.dll
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\bin\Debug\AutoHotkey.Interop.pdb
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.IView.AutoFire.resources
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.Properties.Resources.resources
+E:\GoogleDrive\Personal Projets\gamebot\GameBot1\AutoFire\obj\Debug\AutoFire.csproj.GenerateResource.Cache
+C:\GitHub\GameBot1\AutoFire\bin\Debug\x64\AutoHotkey.dll
+C:\GitHub\GameBot1\AutoFire\bin\Debug\x86\AutoHotkey.dll
+C:\GitHub\GameBot1\AutoFire\bin\Debug\AutoFire.exe.config
+C:\GitHub\GameBot1\AutoFire\bin\Debug\AutoFire.exe
+C:\GitHub\GameBot1\AutoFire\bin\Debug\AutoFire.pdb
+C:\GitHub\GameBot1\AutoFire\bin\Debug\AutoHotkey.Interop.dll
+C:\GitHub\GameBot1\AutoFire\bin\Debug\AutoHotkey.Interop.pdb
+C:\GitHub\GameBot1\AutoFire\obj\Debug\AutoFire.csprojResolveAssemblyReference.cache
+C:\GitHub\GameBot1\AutoFire\obj\Debug\AutoFire.IView.AutoFire.resources
+C:\GitHub\GameBot1\AutoFire\obj\Debug\AutoFire.Properties.Resources.resources
+C:\GitHub\GameBot1\AutoFire\obj\Debug\AutoFire.csproj.GenerateResource.Cache
+C:\GitHub\GameBot1\AutoFire\obj\Debug\AutoFire.csproj.CoreCompileInputs.cache
+C:\GitHub\GameBot1\AutoFire\obj\Debug\AutoFire.exe
+C:\GitHub\GameBot1\AutoFire\obj\Debug\AutoFire.pdb

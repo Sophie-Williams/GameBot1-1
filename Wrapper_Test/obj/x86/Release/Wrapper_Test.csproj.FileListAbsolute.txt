@@ -1,0 +1,14 @@
+C:\Users\Achu\Documents\GameBot1\Wrapper_Test\bin\Release\Wrapper_Test.exe
+C:\Users\Achu\Documents\GameBot1\Wrapper_Test\bin\Release\Wrapper_Test.pdb
+C:\Users\Achu\Documents\GameBot1\Wrapper_Test\bin\Release\Wrapper.dll
+C:\Users\Achu\Documents\GameBot1\Wrapper_Test\bin\Release\Wrapper.pdb
+C:\Users\Achu\Documents\GameBot1\Wrapper_Test\obj\x86\Release\Wrapper_Test.csprojResolveAssemblyReference.cache
+C:\Users\Achu\Documents\GameBot1\Wrapper_Test\obj\x86\Release\Wrapper_Test.exe
+C:\Users\Achu\Documents\GameBot1\Wrapper_Test\obj\x86\Release\Wrapper_Test.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper_Test\bin\Release\Wrapper_Test.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper_Test\bin\Release\Wrapper_Test.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper_Test\bin\Release\Wrapper.dll
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper_Test\bin\Release\Wrapper.pdb
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper_Test\obj\x86\Release\Wrapper_Test.csprojResolveAssemblyReference.cache
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper_Test\obj\x86\Release\Wrapper_Test.exe
+C:\Users\Ahyuc\Desktop\gamebot\GameBot1\Wrapper_Test\obj\x86\Release\Wrapper_Test.pdb
